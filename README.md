@@ -2,9 +2,11 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkya3lnc2UwZjB1c29mdmpxbGZ3MWRhNnVqOXFlOHJjY2F1dnk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
+
 </div>
 <h1 align="center">Hi 👋, I'm Aleksandr Zykov</h1>
 
