@@ -12,6 +12,12 @@
 </div>
 <h1 align="center">Hi 👋, I'm Aleksandr Zykov</h1>
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnimonius&layout=compact&theme=default)](https://github.com/Finnimonius)
+
+</div>
+
 <h3 align="center">My Tech Stack (Learning...)</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -42,12 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnimonius&layout=compact&theme=default)](https://github.com/Finnimonius)
-
-</div>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2bHRwcTRvcTAxOWp3bXVtbnowcmZ4cWhwcDg5bWk3bDQ1ODM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
