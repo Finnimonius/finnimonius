@@ -20,7 +20,5 @@
 </div>
 
 <div align="center">
-
-[![Codewars](https://github.r2v.ch/codewars?user=Finnimonius&name=true&top_languages=true&stroke=%23b362ff)](https://www.codewars.com/users/Finnimonius)
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2bHRwcTRvcTAxOWp3bXVtbnowcmZ4cWhwcDg5bWk3bDQ1ODM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
