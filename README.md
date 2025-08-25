@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Finnimonius) 
+[![codewars](https://www.codewars.com/users/Finnimonius/badges/large)](https://www.codewars.com/users/Finnimonius) 
