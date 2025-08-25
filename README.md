@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnimonius&layout=compact&theme=onedark)](https://github.com/Finnimonius)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnimonius&layout=compact&theme=default)](https://github.com/Finnimonius)
 
 </div>
 
