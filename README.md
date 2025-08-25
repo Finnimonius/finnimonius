@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkya3lnc2UwZjB1c29mdmpxbGZ3MWRhNnVqOXFlOHJjY2F1dnk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Aleksandr Zykov</h1>
 
 <h3 align="left">Languages and Tools:</h3>
