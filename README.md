@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  
-<h3 align="center">My Tech Stack (Learning...)</h3>
+
+  <h1 align="center">Hi 👋, I'm Aleksandr Zykov</h1>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -36,8 +36,8 @@
 </p>
 
 </div>
+<h2 align="center">My Tech Stack (Learning...)</h2>
 
-<h1 align="center">Hi 👋, I'm Aleksandr Zykov</h1>
 
 <div align="center">
 
