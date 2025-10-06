@@ -46,6 +46,8 @@
 
 I'm currently developing an immersive text-based RPG with AI-generated storytelling! 
 
+[![GitHub](https://img.shields.io/badge/GitHub-Реопзиторий-181717?style=for-the-badge&logo=github)](https://github.com/Finnimonius/react-ts-ai-rpg)
+
 ### 🚀 What I'm Working On:
 - **Core Game Logic**: Building the location navigation system and game state management
 - **TypeScript Migration**: Converting my React project to TypeScript as I learn it
