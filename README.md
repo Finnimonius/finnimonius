@@ -51,7 +51,7 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Finnimonius/react-ts-ai-rpg)
 
-[![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/your-username/ai-rpg-backend)
+[![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Finnimonius/ai-rpg-backend)
 
 ### 🚀 What I'm Working On:
 - **Core Game Logic**: Building the location navigation system and game state management
