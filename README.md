@@ -56,24 +56,33 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 - **TypeScript Migration**: Converting my React project to TypeScript as I learn it
 - **AI Integration**: Implementing AI that generates dynamic stories and quests
 - **Location System**: Creating interconnected locations (City, Tavern, Blacksmith, Dungeons, etc.)
+- **User Authentication**: Implementing secure user registration and login system
+- **Backend Logic Migration**: Moving complex game logic from frontend to backend for better security and performance
 
 ### 🛠 Tech Stack & Architecture:
 - **Frontend**: React + TypeScript + Vite
+- **Backend**: Express + mongoDb + JWT Authentication
 - **State Management**: Zustand with persistence
 - **Routing**: React Router DOM with animated transitions (Framer Motion)
 - **UI Components**: Ant Design
 - **AI Service**: Custom API integration for story generation
+- **Authentication**: JWT-based secure user sessions
+- **Security**: Password hashing and protected routes
 
 ### 📁 Project Structure Highlights:
 - **State Management**: Character creation store and game progression store
 - **Location System**: Modular location components with routing
 - **Game Flow**: Character creation → World exploration → AI-driven storytelling
+- **Backend API**: RESTful endpoints for user management and game operations
 
 ### 🔄 Current Focus:
 - Implementing core navigation between locations
 - Refactoring JavaScript code to TypeScript
 - Designing the AI story generation system
 - Building dungeon exploration mechanics
+- Developing user registration and authentication flow
+- Migrating game logic from frontend to backend services
+- Creating secure API endpoints for game operations
 
 ---
 
