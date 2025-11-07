@@ -84,7 +84,7 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 - Migrating game logic from frontend to backend services
 - Creating secure API endpoints for game operations
 
----
+<h2 align="center"></h2>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2bHRwcTRvcTAxOWp3bXVtbnowcmZ4cWhwcDg5bWk3bDQ1ODM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
