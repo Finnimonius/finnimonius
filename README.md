@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finnimonius&layout=compact&theme=default)](https://github.com/Finnimonius)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Finnimonius&theme=default)
 
 </div>
 
