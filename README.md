@@ -53,7 +53,6 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 
 ### 🚀 What I'm Working On:
 - **Core Game Logic**: Building the location navigation system and game state management
-- **TypeScript Migration**: Converting my React project to TypeScript as I learn it
 - **AI Integration**: Implementing AI that generates dynamic stories and quests
 - **Location System**: Creating interconnected locations (City, Tavern, Blacksmith, Dungeons, etc.)
 - **User Authentication**: Implementing secure user registration and login system
