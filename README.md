@@ -44,7 +44,9 @@
 
 <div align="center">
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Finnimonius&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finnimonius&theme=tokyonight)
+
+
 
 </div>
 
