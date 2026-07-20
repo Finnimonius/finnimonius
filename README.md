@@ -67,5 +67,11 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 <h2 align="center"></h2>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2bHRwcTRvcTAxOWp3bXVtbnowcmZ4cWhwcDg5bWk3bDQ1ODM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tncG13M3U3b3ZvOWQ3ZHQ3cGRra2Z4eXhqejFoZ2kxMDBmbDFwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1200&height=35&lines=console.log('Thanks+for+visiting!');%2F%2F+TODO%3A+build+something+amazing;git+commit+-m+%27made+your+day+better%27" alt="Footer" />
+
 </div>
