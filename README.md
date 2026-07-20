@@ -94,6 +94,9 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 - Developing user registration and authentication flow
 - Migrating game logic from frontend to backend services
 - Creating secure API endpoints for game operations
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXcyZGE5NGtrZWlwZHdmNnBzYmc3bXNza3U2YWljZG4xc3VmMmpuMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="30"/>
+</div>
 
 <h2 align="center"></h2>
 
