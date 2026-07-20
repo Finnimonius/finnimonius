@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finnimonius&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finnimonius&theme=dark)
 
 
 
