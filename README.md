@@ -66,8 +66,8 @@ I'm currently developing an immersive text-based RPG with AI-generated storytell
 
 <h2 align="center"></h2>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tncG13M3U3b3ZvOWQ3ZHQ3cGRra2Z4eXhqejFoZ2kxMDBmbDFwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif" width="300"/>
+<div width="100%" align="center">
+  <img src="https://wsrv.nl/?url=media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tncG13M3U3b3ZvOWQ3ZHQ3cGRra2Z4eXhqejFoZ2kxMDBmbDFwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif&bg=0d1117&output=gif&n=-1" width="300"/>
 </div>
 
 
